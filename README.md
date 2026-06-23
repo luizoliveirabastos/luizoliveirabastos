@@ -60,7 +60,7 @@ Minha trajetória em TI e Segurança da Informação me levou a desenvolver uma 
 
 - **[Laboratório SIEM com Wazuh + Sysmon](https://github.com/luizoliveirabastos1)** — Ambiente de monitoramento com Wazuh Manager e Dashboard (Ubuntu), agente em endpoint Windows e máquina atacante Kali Linux. Simulação de eventos reais e análise em tempo real.
 
-- **[Investigação de Incidentes com Elastic Stack (HTB)](https://github.com/luizoliveirabastos1)** — Desafios práticos de Security Monitoring com análise de logs no Kibana, consultas KQL e ingestão de dados no Elastic Stack.
+- **[Investigação de Incidentes com Elastic Stack (Hack The Box) — Desafios práticos de Security Monitoring com análise de logs no Kibana, consultas KQL e ingestão de dados no Elastic Stack.
 
 - **[Detecção de Atividades Suspeitas — Blue Team Lab](https://github.com/luizoliveirabastos1)** — Simulações de ataque com Nmap em lab Windows/Linux, identificando processos, DLLs e conexões suspeitas via Sysmon + Wazuh.
 
