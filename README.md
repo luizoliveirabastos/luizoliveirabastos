@@ -14,10 +14,6 @@ Minha trajetória em TI e Segurança da Informação me levou a desenvolver uma 
 |----------------------------------------------------|-------------------|
 | Implementação de SIEM e Análise de Logs            | <a href="https://github.com/luizoliveirabastos1">Laboratório Wazuh + Sysmon</a> |
 | Monitoramento de Tráfego e Detecção de Ataques     | <a href="https://github.com/luizoliveirabastos1">Laboratório Wazuh + Sysmon</a> |
-| Investigação de Incidentes com Elastic Stack       | <a href="https://github.com/luizoliveirabastos1">HTB Security Monitoring</a> |
-| Consultas KQL para Investigação de Alertas         | <a href="https://github.com/luizoliveirabastos1">HTB Security Monitoring</a> |
-| Scripting e Automação para Análise de Ameaças      | <a href="https://github.com/luizoliveirabastos1">VarredorWeb + Scripts Bash</a> |
-| Detecção de Atividades Suspeitas (Blue Team)       | <a href="https://github.com/luizoliveirabastos1">Laboratório Wazuh + Sysmon</a> |
 
 ## Ferramentas
 
