@@ -1,7 +1,8 @@
 # Luiz Otávio Bastos
 
-Estudante de Cibersegurança | Entusiasta de SOC, SIEM e Threat Hunting
-<a href="www.linkedin.com/in/luiz-otávio-476392219"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/luiz-otávio-476392219">
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## Sobre mim
 
