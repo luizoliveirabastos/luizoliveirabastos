@@ -3,11 +3,12 @@
 ## Sobre mim
 
 Sou estudante de Cibersegurança com foco em Monitoramento de Segurança, SIEM, Threat Hunting e Resposta a Incidentes.
+
+Atualmente estou desenvolvendo laboratórios práticos utilizando Wazuh, Elastic Stack, Sysmon e outras ferramentas voltadas para operações de segurança (SOC).
+
 <a href="https://www.linkedin.com/in/luiz-otávio-476392219">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-Atualmente estou desenvolvendo laboratórios práticos utilizando Wazuh, Elastic Stack, Sysmon e outras ferramentas voltadas para operações de segurança (SOC).
 
 ## Tecnologias e Ferramentas
 
