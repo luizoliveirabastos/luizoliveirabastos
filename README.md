@@ -29,6 +29,7 @@ Minha trajetória em TI e Segurança da Informação me levou a desenvolver uma 
   <img src="https://img.shields.io/badge/-Sysmon-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VMWARE-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ### SIEM & Monitoramento
