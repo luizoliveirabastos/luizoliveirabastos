@@ -1,5 +1,42 @@
-# Olá! 👋 Eu sou Luiz Otávio
+# Luiz Otávio Bastos
 
-Sou estudante de **CST em Análise e Desenvolvimento de Sistemas** e interessado em **cibersegurança**, com foco em **análise de malware, threat intelligence e resposta a incidentes**.  
+Estudante de Cibersegurança | Entusiasta de SOC, SIEM e Threat Hunting
 
-📫 Contato: luizoliveirabastos1@gmail.com
+## Sobre mim
+
+Sou estudante de Cibersegurança com foco em Monitoramento de Segurança, SIEM, Threat Hunting e Resposta a Incidentes.
+
+Atualmente estou desenvolvendo laboratórios práticos utilizando Wazuh, Elastic Stack, Sysmon e outras ferramentas voltadas para operações de segurança (SOC).
+
+## Tecnologias e Ferramentas
+
+- Wazuh
+- Elastic Stack
+- Sysmon
+- Windows Event Logs
+- Linux
+- Redes de Computadores
+- MITRE ATT&CK
+- PowerShell
+- Suricata
+
+## Projetos em andamento
+
+- Laboratório SOC com Wazuh
+- Estudos de Threat Hunting
+- Regras customizadas para detecção
+- Integração Sysmon + Wazuh
+- Mapeamento de eventos para MITRE ATT&CK
+
+## Certificações e Cursos
+
+- Microsoft AI Skills Fest
+- Hack The Box - Security Monitoring & SIEM Fundamentals
+- Hack The Box - Introduction to Threat Hunting & Hunting with Elastic
+- (adicione outras certificações que possuir)
+
+## Contato
+
+LinkedIn: www.linkedin.com/in/luiz-otávio-476392219
+
+GitHub: https://github.com/luizoliveirabastos
